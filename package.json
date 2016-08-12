@@ -1,5 +1,5 @@
 {
-  "name": "discord.js",
+  "name": "discord",
   "version": "8.1.0",
   "description": "A way to interface with the Discord API",
   "main": "./entrypoint.js",
@@ -27,7 +27,8 @@
   "dependencies": {
     "superagent": "^2.1.0",
     "unpipe": "^1.0.0",
-    "ws": "^1.1.1"
+    "ws": "^1.1.1",
+    "discord.js": "~8.1.0"
   },
   "devDependencies": {
     "colors": "^1.1.2",
